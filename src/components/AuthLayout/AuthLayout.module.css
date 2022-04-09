@@ -1,0 +1,10 @@
+main {
+  background-color: lightgray;
+  height: 100vh;
+}
+
+.container {
+  margin: 0 auto;
+  padding-top: 200px;
+  width: 600px;
+}
